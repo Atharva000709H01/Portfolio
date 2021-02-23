@@ -1,0 +1,36 @@
+h1{
+    color: aqua;
+}
+p{
+    color: chocolate;
+}
+h2{
+    color: darkorange;
+}
+
+.header{
+    background-color: rgb(255, 0, 0);
+    display: flex;
+    justify-content: space-between;
+}
+.gride{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+.pong{
+    display: flex;
+    justify-content: space-around;
+}
+.car{
+    display: flex;
+    justify-content: baseline;
+}
+.bird{
+    display: flex;
+    justify-content: center;
+}
